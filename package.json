@@ -1,0 +1,11 @@
+{
+  "name": "ridgestreet-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/ridgestreet/ridgestreet-website.git",
+  "author": "Mattias Hising",
+  "devDependencies": {
+    "metalsmith": "^1.0.1"
+  }
+}
